@@ -1,9 +1,7 @@
 def guess_number():
     n = 90
     n_guess = 5
-    # number_of_guesses = 10
-    # number_of_guesses = guess_number - 1
-
+   
 
     print("Guess the number and the number is between 1 - 100.")
     print("You have only 5 no. of guessing.")
